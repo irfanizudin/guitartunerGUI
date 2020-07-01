@@ -1,0 +1,13 @@
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\Visual Studio 12\Project\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+E:\Visual Studio 12\Project\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\Visual Studio 12\Project\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+E:\Visual Studio 12\Project\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\Visual Studio 12\Project\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\Bunifu_UI_v1.52.dll
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\LBIndustrialCtrls.dll
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\AquaGauge.dll
+E:\Visual Studio 12\Project\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+E:\Visual Studio 12\Project\Lab3\Lab3\bin\Debug\NAudio.dll
