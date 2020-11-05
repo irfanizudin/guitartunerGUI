@@ -1,5 +1,5 @@
 # guitartunerGUI
-GUI guitar tuner made with cSharp <br>
+GUI guitar tuner was made by cSharp <br>
 
 ![guitar tuner GUI](https://github.com/irfanizudin/guitartunerGUI/blob/master/2.JPG)
 <br>
